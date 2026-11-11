@@ -1,0 +1,3 @@
+20 min - familiarisation avec le cdc
+10 min mise en place de l'environement (git + GitHub project)
+10 min recherche de l'inspiration pour l'interface de l'app
